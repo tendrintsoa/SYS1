@@ -1,0 +1,22 @@
+Pour l'examen individuel,
+comme ce qui est indiquée dans le readme pour acceder au chapitre 1: Training: Warchall-The begining,
+on doit tout d'abord faire un "cd /home/level/" pour acceder aux level du challenge(Chapitre 1)
+-Pour le level 0,
+  cd 00_welcome/
+  cat README.md
+-pour le level 1,
+  cd 01_choice_tree/blue/hats/grey/solution/patience/
+  cat solution.txt
+-pour level 2
+  cd 02/.porb/
+  cat .solution
+-pour level 3
+  cd 03/
+  cat .bash_history
+-pour level 4
+  cd ~/
+  cd level/04_kwistaz/
+  cat README2.md
+-pour level 5
+  cd /home/level/05_privacy/
+  cat README.md
